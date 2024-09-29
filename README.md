@@ -132,6 +132,12 @@ cosign sign --key cosign.key $DOCKER_USERNAME/$IMAGE_NAME:$SHA_ID.sbom
 # Ref: 
 - https://www.jit.io/resources/appsec-tools/a-guide-to-generating-sbom-with-syft-and-grype
 - https://edu.chainguard.dev/open-source/sigstore/policy-controller/how-to-install-policy-controller/
+- https://www.docker.com/blog/generate-sboms-with-buildkit/
+- https://anchore.com/blog/add-sbom-generation-to-your-github-project-with-syft/
+- https://www.youtube.com/watch?v=8GKFzJaEHac&ab_channel=VMwareTanzu
+- https://www.youtube.com/watch?v=nybVFJVXbww&ab_channel=Computerphile
+- https://edu.chainguard.dev/open-source/sigstore/policy-controller/how-to-install-policy-controller/
+
 
 
 
